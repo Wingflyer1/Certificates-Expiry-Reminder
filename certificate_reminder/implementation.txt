@@ -21,4 +21,7 @@ First i downloaded git and installed it globally
 
 9. created 'index' view in 'cert_app/views.py'
 
-currently working through 'django_project' polls app tutorial 01: https://docs.djangoproject.com/en/5.0/intro/tutorial01/
+currently working through 'django_project' polls app tutorial 01: 
+https://docs.djangoproject.com/en/5.0/intro/tutorial01/
+
+looking at the path() argument 'route' now
