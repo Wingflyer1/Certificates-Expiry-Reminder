@@ -1,4 +1,4 @@
-Certificate Expiry Reminder
+<bold>Certificate Expiry Reminder</bold>
 
 An app to help users with certificate renewal in time.
 
