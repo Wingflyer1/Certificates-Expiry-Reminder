@@ -1,0 +1,24 @@
+How I set up this project:
+
+First i downloaded git and installed it globally
+
+1. created the virtual environment using virtualenv
+    - in the folder programming i created virtual env --> virtualenv 'cer'
+
+2. in the folder cer i initialized git --> "git init"
+
+3. activated the virtual environment --> 'cer\scripts\activate
+
+4. pip install django
+
+5. django-admin startproject 'certificate reminder'
+
+6. python manage.py startapp 'cert_app'
+
+7. created urls.py in 'cert_app' folder -> created path for index view
+
+8. updated urls.py in 'certificate_reminder' folder to point to 'cert_app/urls.py'
+
+9. created 'index' view in 'cert_app/views.py'
+
+currently working through 'django_project' polls app tutorial 01: https://docs.djangoproject.com/en/5.0/intro/tutorial01/
